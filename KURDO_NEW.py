@@ -702,4 +702,4 @@ if tlps == "5":
             print(f"\r \033[32mGOOD: {h} \033[31;1mBAD: {b} \033[33;1mCHECKPOINT: {s} \033[31;1mBLOCK: {block}",end='')
 if tlps == "6":
         
- os.system('git clone https://github.com/TURKNNEJDJDJD/MMMMMM ; cd MMMMMM ;python2  RM1.py')
+ os.system('git clone https://github.com/TURKNNEJDJDJD/MMMMMM ; cd MMMMMM ;python  RM1.py')
