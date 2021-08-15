@@ -127,7 +127,7 @@ elif "y" in tele:
 print(pl)
 tlps = input("""[1] Checker insta  Auto Number:Number\n[2] Checker Number:Pass\n[3] Checker List User + Pass\n[4] Checker E-mail:Pass
 [5]checker combo
-[6]hack fb  [facebook]\n===============================\n[÷] Choose ==> """)
+\n===============================\n[÷] Choose ==> """)
 if tlps == "1":
    
     make = '1234567890'
